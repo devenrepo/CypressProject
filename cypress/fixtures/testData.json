@@ -1,0 +1,16 @@
+{
+    "login": 
+    {
+      "username": "test.deven@dispostable.com",
+      "password": "System321"
+    },
+    "product": 
+    {
+      "productName": "MacBook"
+    },
+    "message":
+    {
+      "successMessage": "Success: You have added MacBook to your shopping cart!"
+    }
+    
+  }
